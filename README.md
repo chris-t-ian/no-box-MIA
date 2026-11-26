@@ -197,10 +197,10 @@ Based on a code review. None of these have been changed in the repository.
 If you use this code, please cite the thesis:
 
 ```bibtex
-@mastersthesis{schneider_nobox_mia,
+@mastersthesis{schneider_nobox_mia_2025,
   author = {Christian Schneider},
-  title  = {<thesis title>},
-  school = {<university>},
+  title  = {Applied Privacy: Overfitting in Density-Based Membership Inference Attacks against Synthetic Magnetic Resonance Imaging Data and Public Expectations about Privacy},
+  school = {Radboud University},
   year   = {2025}
 }
 ```
